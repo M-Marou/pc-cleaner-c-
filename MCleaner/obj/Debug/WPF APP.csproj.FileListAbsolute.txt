@@ -1,0 +1,37 @@
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\bin\Debug\WPF APP.exe.config
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\bin\Debug\WPF APP.exe
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\bin\Debug\WPF APP.pdb
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\WPF APP.csprojAssemblyReference.cache
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\MainWindow.g.cs
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\App.g.cs
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\WPF APP_MarkupCompile.cache
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\WPF APP_MarkupCompile.lref
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\MainWindow.baml
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\WPF APP.g.resources
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\WPF_APP.Properties.Resources.resources
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\WPF APP.csproj.GenerateResource.cache
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\WPF APP.csproj.CoreCompileInputs.cache
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\WPF APP.exe
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\WPF APP.pdb
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\bin\Debug\WPF APP.exe.config
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\bin\Debug\WPF APP.exe
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\bin\Debug\WPF APP.pdb
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\App.g.cs
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP_MarkupCompile.cache
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP_MarkupCompile.lref
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP.g.resources
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF_APP.Properties.Resources.resources
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP.exe
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP.pdb
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\MBwindow.g.cs
+C:\Users\msckt\OneDrive\Bureau\app ts\WPF APP\WPF APP\obj\Debug\MBwindow.baml
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\MBwindow.g.cs
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\MBwindow.baml
+C:\Users\Youcode\Desktop\PC Cleaner\WPF APP.exe.config
+C:\Users\Youcode\Desktop\PC Cleaner\WPF APP.exe
+C:\Users\Youcode\Desktop\PC Cleaner\WPF APP.pdb

@@ -1,0 +1,58 @@
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\MBwindow.baml
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\MBwindow.g.cs
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\App.g.cs
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP_MarkupCompile.cache
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP_MarkupCompile.lref
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP.g.resources
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF_APP.Properties.Resources.resources
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\MCleaner.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\MCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP.exe
+C:\Users\Youcode\Desktop\brief\WPF APP\WPF APP\obj\Debug\WPF APP.pdb
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\MCleaner.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\MBwindow.g.cs
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\App.g.cs
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\WPF APP_MarkupCompile.cache
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\WPF APP_MarkupCompile.lref
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\MBwindow.baml
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\WPF APP.g.resources
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\WPF_APP.Properties.Resources.resources
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\MCleaner.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\MCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\WPF APP.exe
+C:\Users\Youcode\Desktop\brief\MCleaner\WPF APP\obj\Debug\WPF APP.pdb
+C:\Users\Youcode\Desktop\PC Cleaner\MCleaner.exe.config
+C:\Users\Youcode\Desktop\PC Cleaner\MCleaner.exe
+C:\Users\Youcode\Desktop\PC Cleaner\MCleaner.pdb
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MCleaner.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MBwindow.g.cs
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\App.g.cs
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MCleaner_MarkupCompile.cache
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MCleaner_MarkupCompile.lref
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MBwindow.baml
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MCleaner.g.resources
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MCleaner.Properties.Resources.resources
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MCleaner.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MCleaner.exe
+C:\Users\Youcode\Desktop\brief\MCleaner\MCleaner\obj\Debug\MCleaner.pdb
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MCleaner.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MBwindow.g.cs
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\App.g.cs
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MCleaner_MarkupCompile.cache
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MCleaner_MarkupCompile.lref
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MBwindow.baml
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MCleaner.g.resources
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MCleaner.Properties.Resources.resources
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MCleaner.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MCleaner.exe
+C:\Users\Youcode\Desktop\brief\pc-cleaner-c-\MCleaner\obj\Debug\MCleaner.pdb

@@ -1,0 +1,14 @@
+C:\Users\Youcode\Desktop\PC Cleaner\Updater.exe.config
+C:\Users\Youcode\Desktop\PC Cleaner\Updater.exe
+C:\Users\Youcode\Desktop\PC Cleaner\Updater.pdb
+C:\Users\Youcode\Desktop\brief\MCleaner\Updater\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Desktop\brief\MCleaner\Updater\obj\Debug\App.g.cs
+C:\Users\Youcode\Desktop\brief\MCleaner\Updater\obj\Debug\Updater_MarkupCompile.cache
+C:\Users\Youcode\Desktop\brief\MCleaner\Updater\obj\Debug\Updater_MarkupCompile.lref
+C:\Users\Youcode\Desktop\brief\MCleaner\Updater\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Desktop\brief\MCleaner\Updater\obj\Debug\Updater.g.resources
+C:\Users\Youcode\Desktop\brief\MCleaner\Updater\obj\Debug\Updater.Properties.Resources.resources
+C:\Users\Youcode\Desktop\brief\MCleaner\Updater\obj\Debug\Updater.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\brief\MCleaner\Updater\obj\Debug\Updater.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\brief\MCleaner\Updater\obj\Debug\Updater.exe
+C:\Users\Youcode\Desktop\brief\MCleaner\Updater\obj\Debug\Updater.pdb
